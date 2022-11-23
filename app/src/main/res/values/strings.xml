@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Examine</string>
+    <string name="another_activity_button_text">Переход на новую страницу</string>
+    <string name="second_activity_title_text">Переход на другой экран</string>
+    <string name="third_activity_button_text">Возврат</string>
+    <string name="third_activity_title_text">Hello world</string>
+</resources>
